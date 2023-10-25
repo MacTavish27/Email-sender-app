@@ -2,7 +2,7 @@
 Email sender app made in WPF
 
 
-# instructions to use
+# Instructions to use
 1. Open Visual Studio and view the code.
 2. View MainWindow.xaml.cs and find the variable FROM_PASS.
 3. You need to generate your own password. Turn on 2-step verification in your Google account settings. Then, generate your password in App passwords in settings and copy.

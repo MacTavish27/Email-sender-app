@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Email Sender App\Email Sender App\bin\Debug\net7.0-windows\Email Sender App.exe
+C:\Users\user\source\repos\Email Sender App\Email Sender App\bin\Debug\net7.0-windows\Email Sender App.deps.json
+C:\Users\user\source\repos\Email Sender App\Email Sender App\bin\Debug\net7.0-windows\Email Sender App.runtimeconfig.json
+C:\Users\user\source\repos\Email Sender App\Email Sender App\bin\Debug\net7.0-windows\Email Sender App.dll
+C:\Users\user\source\repos\Email Sender App\Email Sender App\bin\Debug\net7.0-windows\Email Sender App.pdb
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App_MarkupCompile.cache
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App_MarkupCompile.lref
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.g.resources
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.AssemblyInfo.cs
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.dll
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\refint\Email Sender App.dll
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.pdb
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\Email Sender App.genruntimeconfig.cache
+C:\Users\user\source\repos\Email Sender App\Email Sender App\obj\Debug\net7.0-windows\ref\Email Sender App.dll
